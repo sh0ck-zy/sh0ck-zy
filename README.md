@@ -1,6 +1,5 @@
-- 👋 Olá, I’m @sh0ck-zy
-- 👀 Main Interests: LLM's & ML for sports prediction.
-- 🌱 ???
+- 👋 Hi, I’m @sh0ck-zy
+- 👀 Currently focusing on LLM's & ML for sports prediction.
 - 📫 Contact: sh0ck.zy.25@gmail.com
 
 <!---
