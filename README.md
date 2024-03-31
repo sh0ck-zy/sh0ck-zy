@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sh0ck-zy
-- 🤖 AI Master student @UM
+- 🤖 AI Master student @UMaastricht
 - 🔴🟠 developer @VodafoneZiggo
 - 👀 Currently focusing on LLM's & ML for sports prediction.
 - 📫 Contact: sh0ck.zy.25@gmail.com
