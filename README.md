@@ -3,7 +3,7 @@
 - 🔴🟠 developer @VodafoneZiggo
 - 👀 Interests: LLM's & ML for sports prediction
 - 📫 Email: sh0ck.zy.25@gmail.com
-- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-pereira-7643a127b/)
+- 💼 Connect with me on [LinkedIn]([https://www.linkedin.com/in/joao-pereira5/])
 
 
 <!---
