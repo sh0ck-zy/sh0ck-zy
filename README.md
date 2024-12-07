@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sh0ck-zy
+- 👋 Hi, I’m João 
 - 🤖 AI Master student @UMaastricht
 - 🔴🟠 developer @VodafoneZiggo
 - 👀 Interests: LLM's & ML for sports prediction
