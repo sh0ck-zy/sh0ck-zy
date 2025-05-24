@@ -1,8 +1,6 @@
 - 👋 Hi, I’m João 
-- 🤖 AI Master student @UMaastricht
-- 🔴🟠 developer @VodafoneZiggo
-- 👀 Interests: LLM's & ML for sports prediction
-- 📫 Email: sh0ck.zy.25@gmail.com
+- 🤖 AI consultant
+- 🔴🟠 software developer
 - 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-pereira-7643a127b/)
 
 
